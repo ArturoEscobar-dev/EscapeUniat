@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/veloc/UNIAT/Semestre 6-Mar24-Jun24/TallerDeVideojuegos2/EscapeUniatGit/EscapeUniat/Content/StarterContent/Props/MaterialSphere.uasset"
+			]
+		}
+	]
+}
