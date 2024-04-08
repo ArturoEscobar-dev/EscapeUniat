@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Modelo_Personaje/Chibi_Prota.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Modelo_Personaje/Color_ProtaChibi.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Modelo_Personaje/Chibi_Prota_Skeleton.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Modelo_Personaje/Chibi_Prota_PhysicsAsset.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Modelo_Personaje/Color_ProtaChibi_Mat.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Falling_Idle_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/BajarPalanca_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/AbrirPuerta_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Hard_Landing_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Walking_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Running_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Happy_Idle_2_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Right_Turn_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Left_Turn_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Happy_Idle_1_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Jumping_Up_Anim.uasset",
+				"C:/Github/JuegoSideScroller/EscapeUniat/EscapeUniat/Content/Personaje_Principal/Animaciones_Personaje/Idle_Anim.uasset",
 				"D:/veloc/UNIAT/Semestre 6-Mar24-Jun24/TallerDeVideojuegos2/EscapeUniatGit/EscapeUniat/Content/StarterContent/Props/MaterialSphere.uasset"
 			]
 		}
