@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ochar/Documents/GitHub/EscapeUniat/EscapeUniat/Content/props/libreta/lambert1.uasset",
+				"C:/Users/ochar/Documents/GitHub/EscapeUniat/EscapeUniat/Content/props/libreta/libreta.uasset",
+				"C:/Users/ochar/Documents/GitHub/EscapeUniat/EscapeUniat/Content/props/libreta/libreta_lambert1_BaseColor.uasset",
+				"C:/Users/ochar/Documents/GitHub/EscapeUniat/EscapeUniat/Content/props/libreta/libreta_lambert1_Height.uasset",
+				"C:/Users/ochar/Documents/GitHub/EscapeUniat/EscapeUniat/Content/props/libreta/libreta_lambert1_Metallic.uasset",
+				"C:/Users/ochar/Documents/GitHub/EscapeUniat/EscapeUniat/Content/props/libreta/libreta_lambert1_Normal.uasset",
+				"C:/Users/ochar/Documents/GitHub/EscapeUniat/EscapeUniat/Content/props/libreta/libreta_lambert1_Roughness.uasset",
 				"D:/EscapeUniat/EscapeUniat/Content/Fantasmas/anim/Fantasma_gordo_anim.uasset",
 				"D:/EscapeUniat/EscapeUniat/Content/Fantasmas/anim/Fantasma_gordo_anim_Anim.uasset",
 				"D:/EscapeUniat/EscapeUniat/Content/Fantasmas/anim/Fantasma_gordo_anim_PhysicsAsset.uasset",
