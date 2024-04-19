@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/meyer/OneDrive/Documents/GitHub/EscapeUniat/EscapeUniat/Content/Meyer/BP_RotateObjectPuzzle.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/EscapeUniat/EscapeUniat/Content/BP_DoorPassword.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/EscapeUniat/EscapeUniat/Content/BP_PuzzleItem.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/EscapeUniat/EscapeUniat/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/EscapeUniat/EscapeUniat/Content/ThirdPerson/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/meyer/OneDrive/Documents/GitHub/EscapeUniat/EscapeUniat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/PC/OneDrive/Documentos/GitHub/EscapeUniat/EscapeUniat/Content/P_Interact.uasset",
 				"C:/Users/PC/OneDrive/Documentos/GitHub/EscapeUniat/EscapeUniat/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/PC/OneDrive/Documentos/GitHub/EscapeUniat/EscapeUniat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
